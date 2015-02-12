@@ -1,0 +1,51 @@
+header ul
+{
+	list-style-type:none;
+	margin: 0;
+	padding:0;
+	text-align: center;
+}
+
+header img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100px;
+  height: 120px;
+
+}
+
+header h1
+{
+  font-size: 34px;
+}
+
+header a
+{
+  color: black;
+	display:block;
+	width:200px;
+}
+
+header li
+{
+	display:inline-block;
+}
+
+header{
+	border-bottom: 1px dotted grey;
+	padding: 10px;
+}
+
+footer{
+	border-top: 1px dotted grey;
+	padding: 10px;
+  text-align: center;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+}
+
